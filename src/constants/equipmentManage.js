@@ -1,0 +1,7 @@
+/**
+ * Created by shilim on 2017/7/10.
+ */
+export const CHANGE_PAGE_NUM = 'CHANGE_EQUIPMENT_PAGE_NUM';
+export const GET_EQUIPMENT_LIST = 'GET_EQUIPMENT_LIST';
+export const SAVE_EQUIPMENT_LIST = 'SAVE_EQUIPMENT_LIST';
+export const GET_ONE_EQUIPMENT = 'GET_ONE_EQUIPMENT';
